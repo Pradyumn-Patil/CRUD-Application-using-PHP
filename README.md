@@ -5,3 +5,4 @@
 preview
 
 ![alt text] (https://github.com/Pradyumn-Patil/CRUD-Application-using-PHP/blob/master/working/adduser.PNG)
+<img src="https://github.com/Pradyumn-Patil/CRUD-Application-using-PHP/blob/master/working/adduser.PNG"/>
